@@ -1,4 +1,4 @@
-# eda-project-Global-terrorism
+# Eda-project-Global-terrorism
 
 I have analysed the data of Global Terrorism . I have the data from the database of the National Sortium of START(Study of Terrorism and Responses to Terrorism). The data contains the events of terrorist activities happened each year from the year 1970-2017.
 
